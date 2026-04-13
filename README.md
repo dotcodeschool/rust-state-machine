@@ -1,3 +1,12 @@
+> [!CAUTION]
+> **This repository has been archived and is no longer maintained.**
+> 
+> This was a fork of [shawntabrizi/rust-state-machine](https://github.com/shawntabrizi/rust-state-machine). The Dot Code School platform now ingests content directly from the upstream repository.
+> 
+> See [dotcodeschool/frontend](https://github.com/dotcodeschool/frontend) for the current platform.
+
+---
+
 # Rust State Machine
 
 This repository is the basis for a tutorial teaching how to develop a simple state machine using Rust.
