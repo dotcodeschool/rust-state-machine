@@ -46,7 +46,7 @@ match maybe_value {
 
 > IMPORTANT NOTE!
 
-What you SHOULD NOT do is blindly `unwrap()` options. This will result in a `panic` in your code, which is exactly the kind of thing Rust was designed to prevent! Instead, you should always explicitly handle all of your different logical cases, and if you let Rust do it's job, your code will be super safe.
+What you SHOULD NOT do is blindly `unwrap()` options. This will result in a `panic` in your code, which is exactly the kind of thing Rust was designed to prevent! Instead, you should always explicitly handle all of your different logical cases, and if you let Rust do its job, your code will be super safe.
 
 In the context of what we are designing for with the balances module, we have a map which has an arbitrary number of user keys, and their balance values.
 
